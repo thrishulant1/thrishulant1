@@ -13,6 +13,16 @@ I design and maintain test automation frameworks for fintech products, working a
 - Tracked and resolved 100+ defects in Jira across 6+ client environments
 - Currently extending a Java + Cucumber + Gradle framework with Appium to bring mobile (APK) testing into automation
 
+## Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| SDET | CreditNirvana – A Perfios Company | Apr 2026 – Present |
+| Product Operations | slice (Slice Bank) | Jan 2026 – Apr 2026 |
+| SDET | JaisPro | Jan 2025 – Dec 2025 |
+| Application Developer – Web & Mobile | Rooman Technologies Pvt Ltd | Sep 2024 – Feb 2025 |
+| Full-stack Developer | Nikki Build Edtech Private Limited | Sep 2023 – Oct 2023 |
+
 ## Tech Stack
 
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
@@ -27,27 +37,16 @@ I design and maintain test automation frameworks for fintech products, working a
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-## Featured Projects
+## Contribution Graph
+
+![Thrishula's contribution graph](https://ghchart.rshah.org/2ea44f/thrishulant1)
+
+## Projects
 
 - **[Car-Rental-Management-System](https://github.com/thrishulant1/Car-Rental-Management-System)** — full-stack car rental platform with user/admin modules and MySQL-backed schema
 - **[E-Commerce-Shoe-Shopping-Platform](https://github.com/thrishulant1/E-Commerce-Shoe-Shopping-Platform)**
 - **[life-tracker](https://github.com/thrishulant1/life-tracker)**
 - **[Whatsapp-status-downloder](https://github.com/thrishulant1/Whatsapp-status-downloder)**
-
-## Experience
-
-| Role | Company | Duration |
-|---|---|---|
-| SDET | CreditNirvana – A Perfios Company | Apr 2026 – Present |
-| Product Operations | slice (Slice Bank) | Jan 2026 – Apr 2026 |
-| SDET | JaisPro | Jan 2025 – Dec 2025 |
-| Application Developer – Web & Mobile | Rooman Technologies | Sep 2024 – Feb 2025 |
-
-## GitHub Activity
-
-![Thrishula's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrishulant1&show_icons=true&theme=default&hide_border=true)
-
-![Thrishula's contribution graph](https://ghchart.rshah.org/2ea44f/thrishulant1)
 
 ## Connect
 
