@@ -43,6 +43,12 @@ I design and maintain test automation frameworks for fintech products, working a
 | SDET | JaisPro | Jan 2025 – Dec 2025 |
 | Application Developer – Web & Mobile | Rooman Technologies | Sep 2024 – Feb 2025 |
 
+## GitHub Activity
+
+![Thrishula's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrishulant1&show_icons=true&theme=default&hide_border=true)
+
+![Thrishula's contribution graph](https://ghchart.rshah.org/2ea44f/thrishulant1)
+
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/thrishulant1)
