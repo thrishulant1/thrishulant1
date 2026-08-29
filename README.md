@@ -1,8 +1,6 @@
 # Thrishula N T
 
-I build test automation frameworks that catch fintech bugs before production does.
-
-**Currently focused on:** extending a Java + Cucumber + Gradle framework with Appium, converting manual mobile (APK) test cases into automation across multiple client apps.
+SDET at CreditNirvana (a Perfios company) — building test automation frameworks from the ground up.
 
 ## About
 
