@@ -37,10 +37,6 @@ I design and maintain test automation frameworks for fintech products, working a
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-## Contribution Graph
-
-![Thrishula's contribution graph](https://ghchart.rshah.org/2ea44f/thrishulant1)
-
 ## Projects
 
 - **[Car-Rental-Management-System](https://github.com/thrishulant1/Car-Rental-Management-System)** — full-stack car rental platform with user/admin modules and MySQL-backed schema
