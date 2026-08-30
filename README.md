@@ -39,7 +39,7 @@ I design and maintain test automation frameworks for fintech products, working a
 
 ## LeetCode
 
-![Thrishula's LeetCode stats](https://leetcard.jacoblin.cool/thrishulant1?ext=heatmap)
+![Thrishula's LeetCode stats](https://streak-stats.demolab.com/?user=thrishulant1)
 
 ## Projects
 
