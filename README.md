@@ -37,6 +37,10 @@ I design and maintain test automation frameworks for fintech products, working a
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
+## LeetCode
+
+![Thrishula's LeetCode stats](https://leetcard.jacoblin.cool/thrishulant1?ext=heatmap)
+
 ## Projects
 
 - **[Car-Rental-Management-System](https://github.com/thrishulant1/Car-Rental-Management-System)** — full-stack car rental platform with user/admin modules and MySQL-backed schema
