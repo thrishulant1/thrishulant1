@@ -9,7 +9,7 @@
 Building test automation frameworks from the ground up for fintech products at **CreditNirvana (a Perfios company)** — across UI, API, and database layers, in multi-client environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrishulant1)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thrishulant1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/thrishulant1)
 
 </div>
 
