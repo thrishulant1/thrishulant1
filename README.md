@@ -1,6 +1,17 @@
-# Thrishula N T
+<div align="center">
 
-SDET at CreditNirvana (a Perfios company) — building test automation frameworks from the ground up.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,100:007396&height=180&section=header&text=Thrishula%20N%20T&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+
+<a href="https://linkedin.com/in/thrishulant1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAD33&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+in+Test+(SDET);Playwright+%7C+Selenium+%7C+Cucumber+%7C+Appium;Building+test+automation+from+scratch" />
+</a>
+
+Building test automation frameworks from the ground up for fintech products at **CreditNirvana (a Perfios company)** — across UI, API, and database layers, in multi-client environments.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thrishulant1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thrishulant1)
+
+</div>
 
 ## About
 
