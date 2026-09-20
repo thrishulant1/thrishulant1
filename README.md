@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,100:007396&height=180&section=header&text=Thrishula%20N%20T&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <a href="https://linkedin.com/in/thrishulant1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAD33&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+in+Test+(SDET);Playwright+%7C+Selenium+%7C+Cucumber+%7C+Appium;Building+test+automation+from+scratch" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAD33&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+in+Test+(SDET);Playwright+%7C+Selenium+%7C+Cucumber+%7C+Appium;Building+test+automation+from+the+ground+up" />
 </a>
 
 Building test automation frameworks from the ground up for fintech products at **CreditNirvana (a Perfios company)** — across UI, API, and database layers, in multi-client environments.
@@ -17,7 +17,7 @@ Building test automation frameworks from the ground up for fintech products at *
 
 ## About
 
-I design and maintain test automation frameworks for fintech products, working across UI, API, and database layers in multi-client environments.
+A closer look at what that's meant in practice:
 
 - Built a Playwright/JavaScript automation framework from scratch (Page Object Model), scaling to 565+ test cases across 20 modules and 3 client environments
 - Built a separate API and database test layer, connecting to Oracle DB via SSH tunneling for direct DB → API → UI verification
@@ -38,29 +38,32 @@ I design and maintain test automation frameworks for fintech products, working a
 
 ## Tech Stack
 
+**Frameworks**
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-662D91?style=flat&logo=appium&logoColor=white)
+
+**Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**API / Database**
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**CI/CD & Tracking**
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-## LeetCode
-
-![Thrishula's LeetCode stats](https://streak-stats.demolab.com/?user=thrishulant1)
 
 ## Projects
 
 - **[Car-Rental-Management-System](https://github.com/thrishulant1/Car-Rental-Management-System)** — full-stack car rental platform with user/admin modules and MySQL-backed schema
-- **[E-Commerce-Shoe-Shopping-Platform](https://github.com/thrishulant1/E-Commerce-Shoe-Shopping-Platform)**
-- **[life-tracker](https://github.com/thrishulant1/life-tracker)**
-- **[Whatsapp-status-downloder](https://github.com/thrishulant1/Whatsapp-status-downloder)**
+- **[E-Commerce-Shoe-Shopping-Platform](https://github.com/thrishulant1/E-Commerce-Shoe-Shopping-Platform)** — e-commerce site for browsing and purchasing shoes
+- **[life-tracker](https://github.com/thrishulant1/life-tracker)** — app for tracking personal daily activity/habits
+- **[Whatsapp-status-downloder](https://github.com/thrishulant1/Whatsapp-status-downloder)** — tool to download WhatsApp status media
 
-## Connect
+## Education
 
-[LinkedIn](https://linkedin.com/in/thrishulant1)
+**Vemana Institute of Technology** — B.E., Computer Science · CGPA 7.46 · 2021 – 2025 · Bangalore, Karnataka
