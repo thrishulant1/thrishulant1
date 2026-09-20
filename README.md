@@ -59,10 +59,12 @@ A closer look at what that's meant in practice:
 
 ## Projects
 
+- **[python-pytest-api-testing](https://github.com/thrishulant1/python-pytest-api-testing)** — Python/Pytest API automation framework validating CRUD, pagination, and concurrent requests against a REST API, with a GitHub Actions CI pipeline
+- **[sdet-loan-automation](https://github.com/thrishulant1/sdet-loan-automation)** — Java-based test automation for a loan application workflow
 - **[Car-Rental-Management-System](https://github.com/thrishulant1/Car-Rental-Management-System)** — full-stack car rental platform with user/admin modules and MySQL-backed schema
 - **[E-Commerce-Shoe-Shopping-Platform](https://github.com/thrishulant1/E-Commerce-Shoe-Shopping-Platform)** — e-commerce site for browsing and purchasing shoes
 - **[life-tracker](https://github.com/thrishulant1/life-tracker)** — app for tracking personal daily activity/habits
-- **[Whatsapp-status-downloder](https://github.com/thrishulant1/Whatsapp-status-downloder)** — tool to download WhatsApp status media
+- **[WhatsApp-Status-Downloader](https://github.com/thrishulant1/WhatsApp-Status-Downloader)** — tool to download WhatsApp status media
 
 ## Education
 
